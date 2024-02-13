@@ -1,1 +1,1 @@
-# practica1
+Utilizo el método de Montecarlo para calcular la aproximación del número pi de forma iterativa.
